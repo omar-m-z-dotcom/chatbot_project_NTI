@@ -1,9 +1,8 @@
 # chatbot_project_NTI
-# The name of iur project is Bl_Araby(بالعرربي)
+#  Bl_Araby(بالعرربي)
 ## This Project is consisting of 3 phases, the first is Arabic Text and Audio summarize.
 ## Secondly Arabic image caption, That describe what is in image.
-### in this phase we do,  Image Description with MobileNetV2 and Encoder-Decoder.
-### ## Model Architecture
+### Model Architecture
 
 ### MobileNetV2
 MobileNetV2 is a lightweight deep learning model that is highly efficient and suitable for mobile and edge devices. It serves as the feature extractor in our architecture.
